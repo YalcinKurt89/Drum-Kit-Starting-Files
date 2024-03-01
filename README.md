@@ -1,6 +1,9 @@
 <h1 align="center">Drum Kit Webseite</h1>
 
-<p align="center">Eine interaktive Website, die verschiedene Schlaginstrumente darstellt.</p>
+<p align="center">Eine interaktive Website, die verschiedene Schlaginstrumente darstellt.
+<br>
+Dieses Spiel wurde im Rahmen eines Online-Kurses von Dr. Angela Yu erstellt. Dabei wurde das Spiel Schritt für Schritt mit Aufgaben erstellt.
+</p>
 
 <p align="center">
   <a href="https://yalcinkurt89.github.io/Drum_Kit/"><strong>Zur Demo »</strong></a>
