@@ -2,7 +2,7 @@
 
 <p align="center">Eine interaktive Website, die verschiedene Schlaginstrumente darstellt.
 <br>
-Dieses Spiel wurde im Rahmen eines Online-Kurses von Dr. Angela Yu erstellt. Dabei wurde das Spiel Schritt für Schritt mit Aufgaben erstellt.
+Mir ist seit kurzem bewusst, dass dieses Drumk Kit ein beliebtes Miniprojekt von Programmieranfängern ist, jedoch handelt es sich hierbei nicht um einen Copy-Paste, sondern wurde im Rahmen eines Online-Kurses von Dr. Angela Yu erstellt. Dabei habe ich durch Challenges die einzelnen Funktion nach Aufgabenanweisungen von Dr. Angela Yu erstellt, um an Ende einen Drum Kit zu haben.
 </p>
 
 <p align="center">
